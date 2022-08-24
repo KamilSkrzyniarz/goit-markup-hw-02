@@ -11,7 +11,7 @@
   --footerlinkscolor: #ffffff99;
   --productborder: #eeeeee;
 }
-ul {
+.nav-style {
   list-style-type: none;
 }
 body {
